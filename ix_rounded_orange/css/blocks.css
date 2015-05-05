@@ -1,0 +1,114 @@
+/* this css file is part of a commercial xoops theme from michael hokamp http://ixoops.com */
+div.lblocktitle {
+width:210px; 
+
+color: #fff;
+
+}
+div.lblocktitle h1 {
+padding-left: 33px;
+padding-top:3px;
+padding-bottom:3px;
+padding-right:5px;
+color: #fff;
+font-weight: normal;
+background: url(onl.gif) no-repeat left center;
+}
+div.lblockcontent {
+width:150px;
+padding:10px;
+padding-left: 33px;
+
+}
+div.lblockcontent a {
+color: #fff;
+}
+div.lblockcontent a:hover {
+font-weight:bold;
+}
+
+/* end left blocks properties */
+
+div.ccblockcontent, div.clblockcontent, div.crblockcontent {
+text-align:left;
+padding:10px;
+padding-top:0px;
+margin-top:0;
+}
+
+div.ccblocktitle h1, div.clblocktitle h1, div.crblocktitle h1 {
+padding:10px;
+padding-top:0px;margin-top:0;
+}
+/* end center blocks properties */
+
+#modulcontent {
+margin-left:10px;
+margin-right:10px;
+}
+#modulcontent h1 {
+padding-left:0px;
+padding-right:0px;
+color: #666;
+}
+#modulcontent a {
+font-weight: bold;
+color: #666;
+}
+#modulcontent b {
+font-weight: bold;
+color: #666;
+}
+#modulcontent a:hover {
+font-weight: bold;
+color: #666;
+}
+/* end modulcontent properties */
+#mainmenu a {
+display:block;
+color: #111;
+}
+.submenu {
+background: url(submenu.gif) no-repeat left center;
+padding-left:15px;
+color: #fff;
+}
+
+span.u {
+color: #666;
+font-weight: bold;
+text-decoration: underline;
+}
+span :hover {
+color: #fff;
+}
+#usermenu a {
+display:block;
+color: #111;
+}
+.outer th {
+padding:4px;
+padding-bottom:14px;
+background-color: #f4f4f4; 
+color: #666; 
+}
+.outer {border: 0px solid silver;width:98%;}
+.head {background-color: #f4f4f4; padding: 4px;font-weight: normal; color:#111;}
+.even {background-color: #f4f4f4; padding: 2px;}
+.odd {background-color: #f4f4f4; padding: 2px;}
+.foot {background-color: #f4f4f4; padding: 2px; font-weight: bold;}
+tr.even td {background-color: #f4f4f4; padding: 2px;}
+tr.odd td {background-color: #f4f4f4; padding: 2px;}
+
+
+#modulcontent input {color:#111;}
+#modulcontent th {color:#666}
+#userinfo table {padding-top:20px;padding-bottom:40px;color:#111;}
+#loginformular td {padding-top:20px;padding-bottom:40px;color:#111;}
+#loginformular a {font-weight:bold;color:#111;}
+.link a{font-weight:bold;color:#666;}
+form#commentform  {
+font-family:Verdana, Arial, sans-serif;
+		font-size:11px;
+		font-style:normal;
+}
